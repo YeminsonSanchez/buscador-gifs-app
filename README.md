@@ -25,7 +25,7 @@ yarn dev
 ## Tech Stack 🔥
 
 **Client:** React.
-**Test:** Jest, Testing React Library.
+**Test:** Jest, React Testing Library.
 **Server_Dev:** Vite.
 **Deploy:** Netlify.
 
